@@ -1,0 +1,20 @@
+{
+  "name": "inst-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "parcel build public/inst.htm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabeth-Sotade/inst-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elizabeth-Sotade/inst-web/issues"
+  },
+  "homepage": "https://github.com/Elizabeth-Sotade/inst-web#readme"
+}
